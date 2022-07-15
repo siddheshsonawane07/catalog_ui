@@ -6,5 +6,5 @@ Technologies used: Flutter.
 
 Youtube Video demonstrating the project
 <p align = "center">
-  [![catalog_ui](https://img.youtube.com/vi/QBNVSmVDyZI/0.jpg)](https://www.youtube.com/watch?v=QBNVSmVDyZI)
+[![catalog_ui](https://img.youtube.com/vi/QBNVSmVDyZI)](https://www.youtube.com/watch?v=QBNVSmVDyZI)
 </p>
